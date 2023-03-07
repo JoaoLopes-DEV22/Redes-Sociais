@@ -1,0 +1,67 @@
+li {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    font-style: oblique;
+    font-family: monospace;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: #ffffff;
+}
+.nav-link{
+    color: black;
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.container-fluid {
+    background-color: #70c1ff;
+    height: 95px;
+}
+
+.bloco3 {
+    color: rgb(163, 163, 163);
+    width: 50%;
+    border: 1px solid;
+    height: 2680px;
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background: #70c1ff;
+    color: #ffffff;
+    box-sizing: border-box;
+    height: 200px;
+    text-align: left;
+}
+
+.table-success, .table-danger {
+    border-radius: 4px;
+}
+.rodape {
+    color: black;
+}
+
+.d-flex {
+    margin: 80px;
+}
